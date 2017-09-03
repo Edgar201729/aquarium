@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.fishs{
+  text-align: center;
+  color: purple;
+}
+
+.headerImage {
+	width:100%;
+	height:450px;
+}
+
+.textBlock {
+	float:left;
+	font-family: arial;
+	width: 29%;
+	border: 4px solid #696969;
+	padding: 15px;
+	text-align: center;
+	margin: 3px;
+	background-color: #ceffe4;	 
+}
+
+.text{
+	font-style: italic;
+}
+.clear {
+	clear: both;
+}
+
+.links {
+	list-style: none;
+}
+
+.links li {
+	display: inline-block;
+	margin: 0 25px;
+} 
+
+.links li a {
+	text-decoration: line-through;
+}
+
+.linksSection {
+	width: 600px;
+	margin: 0 auto; 
+}
+
+.lastText {
+	font-style: bold;
+	font-size: 19px;
+}
+
+.lastTextBlock {
+   border-style: dashed;
+   padding: 5px;
+   margin: 15px;
+   background-color: #87CEEB;
+   text-align: center;
+}
+
+.first {
+	color: blue;
+    font-style: italic;
+	font-family: Sylfaen;
+}
+
+.second {
+	color: red;
+    font-style: italic;
+	font-family: Arial;
+}
+
+.fhrth {
+	color: yellow;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.forth {
+	color: blue;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.fifth {
+	color: green;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.six {
+	color: green;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.pink {
+	color: rgb(175, 59, 146);
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.grey {
+	color: grey;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.violet {
+	color: violet;
+    font-style: italic;
+	font-family: Sylfean;
+}
+
+.violet {
+	color: violet;
+    font-style: italic;
+	font-family: Sylfean;
+}
+
+.y_red {
+	color: red;
+    font-style: bolt;
+	font-family: Sylfean;
+}
+
+.black {
+	color: black;
+	font-style: bold;	
+	font-family: Sylfaen;
+}
+
